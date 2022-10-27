@@ -3,5 +3,5 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-## Notas
+## Notas estos son cambios desde local
 Cambios locales para subir al servidor de GitHub
